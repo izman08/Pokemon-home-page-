@@ -1,0 +1,128 @@
+.main {
+    background-color: rgb(228, 228, 228);
+    width: 100%;
+    height: 200vh;
+    padding: 20px;
+
+
+
+}
+
+.index {
+    background-color: white ;
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    text-transform: capitalize;
+    font-size: large;
+
+
+}
+
+.one {
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    border-bottom: 5px solid red;
+    border-radius: 5%;
+ 
+
+
+
+}
+
+.two {
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    border-bottom: 5px solid rgb(167, 162, 162);
+    
+}
+
+.three {
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    border-bottom: 5px solid rgb(243, 247, 17);
+}
+
+.four {
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    border-bottom: 5px solid rgb(11, 9, 9);
+}
+
+.five {
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    border-bottom: 5px solid rgb(255, 147, 47);
+}
+
+.six {
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    border-bottom: 5px solid rgb(42, 138, 217);
+
+}
+
+.seven {
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    border-bottom: 5px solid rgb(104, 255, 67);
+    padding-bottom: 10px;
+    border-radius: 5%;
+
+}
+
+.two:hover {
+    background-color: rgb(138, 138, 138);
+}
+
+.one:hover {
+    background-color: rgb(197, 0, 0);
+}
+
+.three:hover {
+    background-color: rgb(223, 194, 35);
+}
+
+.four:hover {
+    background-color: black;
+}
+
+.five:hover {
+    background-color: rgb(235, 96, 27);
+}
+
+.six:hover {
+    background-color: rgb(12, 2, 205);
+}
+
+.seven:hover {
+    background-color: rgb(125, 255, 25);
+}
+
+a {
+
+    text-decoration: none;
+
+}
